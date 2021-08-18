@@ -6,7 +6,7 @@ Bunu diğer dillerde okuyun : [English](https://github.com/fantalatone/tostman/b
 
 ```
 // localhost'a GET request yapıyoruz
-tostman GET localhost:8000/users/
+.\tostman.exe GET localhost:8000/users/
 
 // çıktı
 Status : 200
@@ -19,7 +19,7 @@ Tostman'i kullanmak oldukça basittir.
 ### SÖZ DİZİMİ
 Tostman basit bir söz dizimine sahip.
 
-`tostman <METHOD> <URL> <BODY>`
+`.\tostman.exe <METHOD> <URL> <BODY>`
 
 #### Method
 Geçerli metodlar :
