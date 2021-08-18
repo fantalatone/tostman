@@ -6,7 +6,7 @@ Read this in other languages : [English](https://github.com/fantalatone/tostman/
 
 ```
 // making a GET request to localhost
-tostman GET localhost:8000/users/
+.\tostman.exe GET localhost:8000/users/
 
 // output
 Status : 200
@@ -19,7 +19,7 @@ Using Tostman is quite simple.
 ### Syntax
 Tostman has a really simple syntax.
 
-`tostman <METHOD> <URL> <BODY>`
+`.\tostman.exe <METHOD> <URL> <BODY>`
 
 #### Method
 Valid methods :
