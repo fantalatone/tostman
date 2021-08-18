@@ -1,0 +1,16 @@
+{
+  "name": "Tostman",
+  "version": "2.0.0",
+  "description": "Tostman, just Tostman. API Testing CLI",
+  "main": "index.js",
+  "scripts": {
+    "api:dev": "nodemon ./api/api.js"
+  },
+  "repository": "https://github.com/fantalatone/tostman.git",
+  "author": "FantaLaTone",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "pretty-bytes": "^5.6.0"
+  }
+}

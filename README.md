@@ -1,1 +1,1 @@
-# tostman
+# Tostman (API Testing CLI for Developers) v2.0.0
